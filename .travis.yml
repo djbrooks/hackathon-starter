@@ -1,5 +1,8 @@
+# .travis.yml file
 language: node_js
 node_js:
+  - "node"
+  - "7"
   - "8"
   - "9"
 services: mongodb  

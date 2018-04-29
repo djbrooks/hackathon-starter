@@ -7,7 +7,11 @@ lib-cov
 *.pid
 *.gz
 *.swp
+*.pem
+*.txt
 
+ignore
+data
 pids
 logs
 results
